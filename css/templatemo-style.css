@@ -115,7 +115,7 @@ http://www.templatemo.com/tm-515-eatery
 
   section {
     position: relative;
-    padding: 100px 0;
+    padding: 50px 0;
   }
 
   #team, 
@@ -331,7 +331,7 @@ http://www.templatemo.com/tm-515-eatery
   -----------------------------------------*/
 
   #home {
-    padding: 0;
+    padding: 0 0 50px 0;
   }
 
   #home h1 {
