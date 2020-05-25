@@ -396,7 +396,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .slider .item {
-    background-position: inherit;
+    /* background-position: inherit; */
     background-repeat: no-repeat;
     background-attachment: local;
     background-size: cover!important;
@@ -885,7 +885,8 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .slider .item {
-      background-position: center;
+    background-size: cover!important;
+    /* background-position: center; */
     }
 
     .about-info {
@@ -1013,4 +1014,15 @@ http://www.templatemo.com/tm-515-eatery
 .img-bai-viet{
   max-width: 800px;
   max-height: 500px;
+}
+
+
+@media only screen and (max-width: 400px) {
+
+  .slider .item{
+    height: 100%;
+  }
+  .owl-carousel .owl-stage{
+    padding-top: 80px;
+  }
 }
