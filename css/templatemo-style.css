@@ -1032,6 +1032,8 @@ http://www.templatemo.com/tm-515-eatery
 }
 
 .phone-num{
+    text-decoration: red;
+    user-select: none;
     color: red;
     text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
 }
