@@ -1026,3 +1026,12 @@ http://www.templatemo.com/tm-515-eatery
     padding-top: 80px;
   }
 }
+
+.caption h1 {
+  padding-bottom:0px!important;
+}
+
+.phone-num{
+    color: red;
+    text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff;
+}
